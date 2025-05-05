@@ -1,0 +1,54 @@
+7
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install nginx
+sudo apt-get install ngi
+cd ../../var/www
+sudo chmod 777 html
+
+
+8
+git init
+git remote add origin .........
+git add .
+git commit -m "first commmit"
+git branch -M master
+git push -u origin master
+
+
+9
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx
+git clone https://github.com/............git 
+ls
+cd UM4
+ls
+curl -SL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt-get install nodejs
+npm install
+node index.js
+
+
+10
+git clone .........
+ls
+cd UM4
+ls
+npm install
+node index.js
+
+
+
+#!/bin/bash
+apt-get update
+apt-get install -y nginx
+systemctl start nginx
+systemctl enable nginx
+apt-get install -y git
+curl -SL https://deb.nodesource.com/setup_18.x|sudo -E bash -
+apt-get install -y nodejs
+git clone http://github.com/............Repo1.git
+cd ................
+npm install
+node index.js
